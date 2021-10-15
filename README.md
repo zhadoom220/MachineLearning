@@ -1,6 +1,7 @@
 # MachineLearning
-Machine Learning Clasificacion de Vinos Python
+Clasificacion de Vinos con Python y Algoritmos de clasificacion para un DataSet de Vinos de categoria Tinto
 Realizado por Samuel Gonzalez
+
 
 ## Requerimientos
 * Jupyter Notebook
